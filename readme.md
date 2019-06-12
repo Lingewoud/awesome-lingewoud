@@ -13,7 +13,7 @@
 
 ### Inspiration for GitLab connector for Google Data Studio 
 
-- [Issue Analytics](https://docs.gitlab.com/ee/user/group/issues_analytics/)
+- [GitLab Issue Analytics](https://docs.gitlab.com/ee/user/group/issues_analytics/)
 
 ## Contribute
 
